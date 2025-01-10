@@ -22,7 +22,7 @@ This is the last generation which has a individual fits the max required fitness
 ![alt text](./showcase/9.gif?raw=true "Last Generation")
 
 
-**Rresult of reinfocement learning**
+**Result of reinfocement learning**
 
 This is one of the tests in the beginning:
 
